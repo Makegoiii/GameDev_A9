@@ -1,0 +1,12 @@
+AI LOG - Coin Quest 3D
+Assignment 8-9:
+- I used AI only to ask for codes that I didn't understand
+AI wrote SafeArea.cs, PauseMenu.cs and the editor tool that sets up
+the Menu, HUD and Pause screens (Canvas Scaler, safe area, button sizes).
+AI made the character files smaller (removed embedded textures).
+What I did:
+- Assignments 1-9: the base game (player, coins, gate, platforms, spawner,
+  health, shooter, input system, joystick, main menu).
+- Ran and tested everything in Unity and Device Simulator, fixed problems,
+  checked the GDD, made the GitHub repository and commits.
+- I read all the code and can explain how it works.
